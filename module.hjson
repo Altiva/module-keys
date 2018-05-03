@@ -1,0 +1,6 @@
+{	
+	name: "keys",
+	version: "1.0.0",
+	repository: "altiva/keys",
+	main: "keys.js"
+}
